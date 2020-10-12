@@ -10,7 +10,7 @@ function Landing() {
   return (
     <div id="page-landing">
       <div className="content-wrapper">
-        <img src={logoImg} alt="Carinha feliz e um texto com happy"/>
+        <img src={logoImg} alt="Emoticon feliz e um texto com happy"/>
 
         <main>
           <h1>Leve felicidade para o mundo</h1>
